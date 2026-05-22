@@ -1,12 +1,8 @@
-# 👩🏻‍💻 Tomás Cheng
-
-**`Computer Science student`**
+# Hello 👋
 
 My name is Tomás Dinis de Jesus José Cheng, I'm 19 years old from Portugal. I'm currently in my second year of Computer Science.
 
----
-
-### 🤖 Linguagens e Tecnologias
+## 🤖 Languages
 
 <img 
     align="left" 
@@ -42,8 +38,8 @@ My name is Tomás Dinis de Jesus José Cheng, I'm 19 years old from Portugal. I'
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Kotlin" 
+    title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
@@ -58,24 +54,11 @@ My name is Tomás Dinis de Jesus José Cheng, I'm 19 years old from Portugal. I'
 />
 
 <br/>
-<br/>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=compileERezaCheng&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## A Bit About Me
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=compileerezacheng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+- ☕I Love coffee
+- 🎮Into gaming and Anime
+- 🏗️I like building things to optimize my daily life
